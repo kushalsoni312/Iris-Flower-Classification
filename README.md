@@ -1,0 +1,1 @@
+The aim of this project is used to determine the overall review of passengers i.e. positive or negative for the flight by analyzing their tweets.This project inolves some part of machine learning, its frameworks like tensorflow and NLP pipelining concepts.
